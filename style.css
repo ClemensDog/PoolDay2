@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+body{
+    display:grid;
+    font-size:2em;
+    background-image:url(bg.jpg);
+    color:white;
+    text-align: center;
+    }
+
+.button1{
+    background-color:darkred;
+    color:white;
+}
+
+ul{
+    list-style-type:none;
+}
+
+h1{
+    font-family:Lobster;
+    color:white;
+}
+.stuff {
+      text-decoration: line-through;
+    }
+
+#listitem{
+    height:20px;
+    width:auto;
+    color:darkred;
+    font-family:Lobster;
+}
